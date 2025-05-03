@@ -13,4 +13,4 @@ A simple and interactive dice game
 - Dynamic content updates
 
 ## Preview
-![##](https://github.com/user-attachments/assets/695dace3-7ff2-493a-b1d7-10727efe9f55)
+![##](https://github.com/user-attachments/assets/6c29fd28-0c9c-4c9d-8bf3-5742ccbf44f2)
